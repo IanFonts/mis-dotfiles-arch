@@ -6,6 +6,7 @@ amd-ucode
 ark
 assetnote-wordlists
 awww
+baobab
 base
 base-devel
 bind
@@ -14,6 +15,7 @@ bluez
 bluez-utils
 btrfs-progs
 cava
+chafa
 country-ip-blocks
 crunch
 cups
@@ -25,6 +27,7 @@ docker-compose
 dosfstools
 efibootmgr
 exfatprogs
+expac
 ffmpegthumbnailer
 file-roller
 fish
@@ -42,12 +45,12 @@ gvfs-afc
 gvfs-mtp
 gwenview
 haruna
+hypridle
+hyprlock
 hyprshutdown
 imagemagick
 iwd
 jre21-openjdk
-kate
-kdenlive
 kicad
 kicad-library
 kicad-library-3d
@@ -74,7 +77,6 @@ nss-mdns
 ntfs-3g
 nwg-displays
 obs-studio
-okular
 pacman-contrib
 paru
 pavucontrol
@@ -95,7 +97,6 @@ sassc
 sddm
 seclists
 sherlock
-sof-firmware
 steam
 sudo
 swayimg
@@ -106,7 +107,6 @@ thunar
 thunar-archive-plugin
 tumbler
 v4l2loopback-dkms
-vim
 vulkan-tools
 wdict
 wev
