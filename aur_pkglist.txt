@@ -17,12 +17,12 @@ osu-lazer-bin
 paru-debug
 protonup-qt
 spicetify-cli
+spotatui-bin
 spotify
 timeshift-autosnap
 ttf-ms-fonts
 tty-clock
 visual-studio-code-bin
-waypaper
 winboat-bin
 yay-bin
 zen-browser-bin

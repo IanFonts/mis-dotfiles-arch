@@ -40,6 +40,9 @@
             "showDate": false
         },
         "persistent": true,
+        "scrollActions": {
+            "workspaces": true
+        },
         "showOnHover": true,
         "status": {
             "showAudio": false,
@@ -66,7 +69,8 @@
         "favouriteApps": [
         ],
         "useFuzzy": {
-            "apps": false
+            "apps": false,
+            "wallpapers": false
         }
     },
     "nexus": {
