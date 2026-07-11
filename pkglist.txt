@@ -96,6 +96,7 @@ pipewire-pulse
 polkit-gnome
 polkit-kde-agent
 proton-vpn-gtk-app
+python-matplotlib
 python-pip
 qemu-img
 qps
