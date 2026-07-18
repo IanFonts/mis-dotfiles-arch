@@ -87,3 +87,5 @@ hl.device({
     kb_layout = "latam"
 })
 
+--Monitores
+require("monitors")
