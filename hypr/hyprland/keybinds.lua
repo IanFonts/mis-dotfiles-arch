@@ -189,3 +189,12 @@ hl.bind(
         " -a 'Shell' -A 'Test1=I got it!' -A 'Test2=Another action'"
     )
 )
+
+-- Monitores
+hl.bind("XF86Display", hl.dsp.exec_cmd("nwg-displays"))
+
+-- Obsidian
+hl.bind("XF86NotificationCenter", hl.dsp.exec_cmd("flatpak run md.obsidian.Obsidian"))
+
+--Favoritos
+hl.bind("XF86Favorites", hl.dsp.window.move({ workspace = "special:special" }))
