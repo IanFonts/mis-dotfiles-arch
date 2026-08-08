@@ -87,5 +87,5 @@ hl.device({
     kb_layout = "latam"
 })
 
---Monitores
-require("monitors")
+-- HyprMod managed settings
+require("hyprland-gui")

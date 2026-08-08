@@ -11,6 +11,7 @@
         "clock": {
             "background": false
         },
+        "persistent": false,
         "status": {
             "showMicrophone": true
         },
@@ -47,5 +48,8 @@
         "dragThreshold": 30,
         "enabled": true,
         "vimKeybinds": false
+    },
+    "sidebar": {
+        "enabled": true
     }
 }

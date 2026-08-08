@@ -191,7 +191,7 @@ hl.bind(
 )
 
 -- Monitores
-hl.bind("XF86Display", hl.dsp.exec_cmd("nwg-displays"))
+hl.bind("XF86Display", hl.dsp.exec_cmd("hyprmod"))
 
 -- Obsidian
 hl.bind("XF86NotificationCenter", hl.dsp.exec_cmd("flatpak run md.obsidian.Obsidian"))
