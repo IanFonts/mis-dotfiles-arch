@@ -4,12 +4,16 @@
             "enabled": false
         }
     },
+    "background": {
+        "wallpaperEnabled": true
+    },
     "bar": {
         "activeWindow": {
             "compact": false
         },
         "clock": {
-            "background": false
+            "background": false,
+            "showDate": false
         },
         "persistent": false,
         "statusIcons": [
